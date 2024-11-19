@@ -12,3 +12,7 @@ This version allows to access the DIP-switch and the configuration jumpers.
 
 2. <b>Versa64case Without Configuration Access</b><br>
 This version does not allow changing the configuration of the Versa64cart without opening the case, which might be a desirable option for some projects.
+
+# Project Documentation
+
+Please consider reading the <a href="https://github.com/svenpetersen1965/Versa64case-v2/blob/main/Rev.%200/pdf/Versa64caseV2_Rev0.pdf">Documentation</a>.
