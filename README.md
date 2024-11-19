@@ -5,6 +5,7 @@ The goal was to develope a case, that is less complicated than the first case fr
 
 <img src="https://github.com/svenpetersen1965/Versa64case-v2/blob/main/Rev.%200/pictures/9443_-_versacase_all.JPG" width="300" alt="Versa64case">
 # Versions
+
 1. Versa64case With Full Configuration Access<br>
 This version allows to access the DIP-switch and the configuration jumpers.
 
